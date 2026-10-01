@@ -1,0 +1,11 @@
+tweet,sentiment
+"I absolutely love this product! Amazing experience. ❤️",Positive
+"This is the worst customer service experience ever. 😡",Negative
+"The meeting is scheduled for 5 PM tomorrow in room 204.",Neutral
+"Not bad at all! Exceeded my expectations for the price.",Positive
+"Not good service. Extremely slow and unresponsive staff.",Negative
+"Please submit your project reports by Friday evening.",Neutral
+"Super excited for the weekend trip with my best friends! 🎉",Positive
+"App crashes every time I try to upload a photo. Useless!",Negative
+"The library opening hours are listed on the main door.",Neutral
+"Great food, pleasant ambiance, and wonderful hospitality!",Positive

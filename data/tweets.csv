@@ -1,0 +1,94 @@
+tweet,sentiment,date
+"I absolutely love this new update! Everything runs so smooth and fast. ❤️ #awesome",Positive,2026-09-01
+"This is by far the worst customer service experience I have ever had. Extremely disappointed! 😡",Negative,2026-09-01
+"The event is scheduled to start at 5:00 PM EST tomorrow in the main hall.",Neutral,2026-09-01
+"Just got my new laptop today! Performance is unreal and screen is stunning! 😍🔥",Positive,2026-09-02
+"Flight got delayed by 4 hours again. @AirlineName fix your schedule! 🤬👎",Negative,2026-09-02
+"The weather today is partly cloudy with a high of 72 degrees.",Neutral,2026-09-02
+"Honestly, I don't hate the new design. It actually feels quite sleek once you get used to it.",Positive,2026-09-03
+"App keeps crashing every time I open settings. Completely useless update... 🤮",Negative,2026-09-03
+"Please refer to page 14 of the user manual for installation instructions.",Neutral,2026-09-03
+"Super excited to present our research paper at the national tech conference! 🎉✨",Positive,2026-09-04
+"Total waste of money! Broke after just 2 days of normal use. Do not buy! 💔",Negative,2026-09-04
+"The monthly team update meeting will be held via Zoom.",Neutral,2026-09-04
+"Great food, amazing atmosphere, and friendly staff! Will definitely come back! 💯👍",Positive,2026-09-05
+"Terrible battery life after updating to the latest OS version. Need a fix ASAP!",Negative,2026-09-05
+"The library is open from 8 AM to 10 PM on weekdays.",Neutral,2026-09-05
+"Had a fantastic time celebrating with friends tonight! Best weekend ever! 😁🎉",Positive,2026-09-06
+"Website is down again. How hard is it to keep servers stable? 😒",Negative,2026-09-06
+"The stock price closed at $142.50 at the end of trading today.",Neutral,2026-09-06
+"Really impressed with the fast delivery and top-notch packaging. Highly recommended! 👏",Positive,2026-09-07
+"Horrible quality control. Product arrived damaged and scratched. 😭",Negative,2026-09-07
+"The report was submitted to the department head yesterday afternoon.",Neutral,2026-09-07
+"Loved the movie! The plot twists and soundtrack were absolutely mind-blowing!",Positive,2026-09-08
+"Frustrated with constant spam calls every single day. So annoying!",Negative,2026-09-08
+"The bus route covers downtown and the north campus stations.",Neutral,2026-09-08
+"Outstanding performance by the entire team! Hard work really paid off! 🏆✨",Positive,2026-09-09
+"Slow loading speeds and glitchy UI make this app unusable. Very bad experience.",Negative,2026-09-09
+"The conference paper submission deadline is midnight GMT.",Neutral,2026-09-09
+"Beautiful morning walk in the park! Sunshine and fresh air make everything better. ☀️🌸",Positive,2026-09-10
+"Order never arrived and support won't reply to my emails. Scam! 💩",Negative,2026-09-10
+"Registration for the upcoming workshop begins next Monday.",Neutral,2026-09-10
+"Brilliant software design! Makes my daily workflow 10x faster and easier.",Positive,2026-09-11
+"Pathetic quality! Buttons stopped working after one week. Waste of time.",Negative,2026-09-11
+"The python script executed successfully without any error flags.",Neutral,2026-09-11
+"So happy to reach 10,000 subscribers! Thank you all for the support! ❤️🙏",Positive,2026-09-12
+"Extremely noisy fan and overheating issues on this laptop model.",Negative,2026-09-12
+"The train will arrive at platform 3 in approximately 10 minutes.",Neutral,2026-09-12
+"Wonderful experience staying at this hotel! Room was clean and cozy.",Positive,2026-09-13
+"Worst internet service provider ever. Signal drops every ten minutes!",Negative,2026-09-13
+"The exam timetable has been uploaded to the university portal.",Neutral,2026-09-13
+"Incredible talent displayed at the music festival tonight! Pure energy! 🎵🔥",Positive,2026-09-14
+"Disgusted by the poor hygienic conditions at this restaurant.",Negative,2026-09-14
+"The office will remain closed on public holidays.",Neutral,2026-09-14
+"Delicious food and quick service! 10/10 would visit again! 🍔🍟",Positive,2026-09-15
+"Broken link on the checkout page. Can't complete my payment!",Negative,2026-09-15
+"The semester results will be announced next week.",Neutral,2026-09-15
+"Such a heartwarming story! Made my day so much brighter.",Positive,2026-09-16
+"Rude cashier and unacceptable behavior. Never coming back here.",Negative,2026-09-16
+"The seminar room is located on the second floor.",Neutral,2026-09-16
+"Great victory for our sports team today! Proud of everyone! 🥇",Positive,2026-09-17
+"The app update deleted all my saved preferences. Terrible engineering!",Negative,2026-09-17
+"The system maintenance is scheduled for Sunday at 2 AM.",Neutral,2026-09-17
+"Very pleasant atmosphere and peaceful surroundings for study.",Positive,2026-09-18
+"Constant connection timeouts during online gaming match. So annoying!",Negative,2026-09-18
+"The data files are stored in the CSV directory.",Neutral,2026-09-18
+"Awesome feature addition! Exactly what power users were asking for.",Positive,2026-09-19
+"Extremely misleading product description. Complete disappointment.",Negative,2026-09-19
+"The meeting minutes were circulated to all committee members.",Neutral,2026-09-19
+"Loving the new camera quality on this phone! Shots look professional!",Positive,2026-09-20
+"Defective product delivered and return request was rejected. Unbelievable!",Negative,2026-09-20
+"The course syllabus includes machine learning and deep learning basics.",Neutral,2026-09-20
+"Fantastic customer care! Resolved my query within five minutes.",Positive,2026-09-21
+"Glitchy video playback and audio out of sync. Horrible experience.",Negative,2026-09-21
+"The project report must be submitted in PDF format.",Neutral,2026-09-21
+"Warm welcome and generous hospitality from the hosts. Thank you!",Positive,2026-09-22
+"Refund process is unnecessarily complicated and tedious.",Negative,2026-09-22
+"The university sports complex remains open daily.",Neutral,2026-09-22
+"Super smooth user interface and intuitive layout. Great job team!",Positive,2026-09-23
+"Severe lag and high latency on server 4. Needs urgent fix.",Negative,2026-09-23
+"The official announcement is available on the main bulletin board.",Neutral,2026-09-23
+"Loved every second of the concert! Unforgettable night!",Positive,2026-09-24
+"High prices and tiny portion sizes. Definitely not worth it.",Negative,2026-09-24
+"The lecture presentation slides have been attached to the email.",Neutral,2026-09-24
+"Excellent documentation! Made integrating the API effortless.",Positive,2026-09-25
+"App crashes on launch after updating iOS. Completely broken!",Negative,2026-09-25
+"The final exam consists of 50 multiple choice questions.",Neutral,2026-09-25
+"What an insightful podcast episode! Learned so many new things.",Positive,2026-09-26
+"Cheap build quality and flimsy plastic material. Avoid!",Negative,2026-09-26
+"The parking area is open for all attendees.",Neutral,2026-09-26
+"Always a joy to collaborate with such talented professionals!",Positive,2026-09-27
+"Subpar performance compared to the previous model version.",Negative,2026-09-27
+"The next quarterly review is scheduled for October 15th.",Neutral,2026-09-27
+"Delighted with the rapid delivery service! Arrived 2 days early.",Positive,2026-09-28
+"Terrible battery drainage even when idle. Disappointed.",Negative,2026-09-28
+"The webinar starts at 3 PM UTC.",Neutral,2026-09-28
+"Top notch quality and excellent value for money! 5 stars!",Positive,2026-09-29
+"Poor network coverage in urban areas. Unacceptable service.",Negative,2026-09-29
+"The textbook is available at the university bookstore.",Neutral,2026-09-29
+"Extremely happy with the overall experience! Will buy again!",Positive,2026-09-30
+"Frustrating user interface with confusing navigation options.",Negative,2026-09-30
+"The office hours for office staff are 9 AM to 5 PM.",Neutral,2026-09-30
+"Not bad at all! Exceeded my expectations given the affordable price.",Positive,2026-10-01
+"Not good service. Waiters were unresponsive and slow.",Negative,2026-10-01
+"The Python script requires version 3.11 or higher.",Neutral,2026-10-01
